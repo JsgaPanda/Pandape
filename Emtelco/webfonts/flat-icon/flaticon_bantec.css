@@ -1,7 +1,12 @@
 @font-face {
   font-family: "flaticon_bantec";
-  src: url("./flaticon_bantec.woff2?14164428dd7751f4c89e1bd0dd0324df") format("woff2"), url("./flaticon_bantec.woff?14164428dd7751f4c89e1bd0dd0324df") format("woff"), url("./flaticon_bantec.eot?14164428dd7751f4c89e1bd0dd0324df#iefix") format("embedded-opentype"), url("./flaticon_bantec.ttf?14164428dd7751f4c89e1bd0dd0324df") format("truetype"), url("./flaticon_bantec.svg?14164428dd7751f4c89e1bd0dd0324df#flaticon_bantec") format("svg");
+  src: url("https://raw.githubusercontent.com/JsgaPanda/Pandape/main/Emtelco/webfonts/flat-icon/flaticon_bantec.woff2") format("woff2"),
+       url("https://raw.githubusercontent.com/JsgaPanda/Pandape/main/Emtelco/webfonts/flat-icon/flaticon_bantec.woff") format("woff"),
+       url("https://raw.githubusercontent.com/JsgaPanda/Pandape/main/Emtelco/webfonts/flat-icon/flaticon_bantec.eot") format("embedded-opentype"),
+       url("https://raw.githubusercontent.com/JsgaPanda/Pandape/main/Emtelco/webfonts/flat-icon/flaticon_bantec.ttf") format("truetype"),
+       url("https://raw.githubusercontent.com/JsgaPanda/Pandape/main/Emtelco/webfonts/flat-icon/flaticon_bantec.svg#flaticon_bantec") format("svg");
 }
+
 i[class^=flaticon-]:before, i[class*=" flaticon-"]:before {
   font-family: flaticon_bantec !important;
   font-style: normal;
