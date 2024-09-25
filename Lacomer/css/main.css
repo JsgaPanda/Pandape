@@ -2361,13 +2361,13 @@ textarea {
   letter-spacing: 1.4px;
 }
 .section__title-wrapper-title {
-  font-family: var(--rr-ff-heading);
-  color: var(--rr-heading-primary);
-  font-weight: var(--rr-fw-bold);
-  font-size: var(--rr-fs-h2);
-  line-height: var(--rr-lh-h2);
-  font-style: normal;
-  margin-bottom: 0;
+  font-family: var(--rr-ff-heading) !important;
+  color: var(--rr-heading-primary) !important;
+  font-weight: var(--rr-fw-bold) !important;
+  font-size: var(--rr-fs-h2) !important;
+  line-height: var(--rr-lh-h2) !important;
+  font-style: normal !important;
+  margin-bottom: 0 !important;
 }
 @media only screen and (min-width: 768px) and (max-width: 992px) {
   .section__title-wrapper-title {
