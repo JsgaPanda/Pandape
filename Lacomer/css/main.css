@@ -12666,7 +12666,7 @@ body .ui-tooltip {
 }
 .choose-us__content-wrapper-box-title h3 {
   font-family: var(--rr-ff-heading);
-  color: var(--rr-heading-primary);
+  color: var(--rr-heading-primary)!important;
   font-weight: var(--rr-fw-bold);
   line-height: var(--rr-fs-h5);
   font-size: 22px;
