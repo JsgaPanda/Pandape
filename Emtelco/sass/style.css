@@ -395,7 +395,6 @@ p {
 .subtitle-three,
 .subtitle-four {
   position: relative;
-  text-transform: capitalize;
   font-family: var(--heading-font);
   color: var(--primary-color-1);
   font-weight: 500;
@@ -463,7 +462,6 @@ p {
   z-index: 3;
   position: relative;
   transition: 0.4s;
-  text-transform: capitalize;
   overflow: hidden;
   border-radius: 50px;
   border: 1px solid var(--primary-color-1);
@@ -3091,7 +3089,6 @@ p {
 }
 .top__bar-right a {
   font-size: 18px;
-  text-transform: capitalize;
   color: var(--text-white);
 }
 .top__bar-right a i {
@@ -3108,7 +3105,6 @@ p {
 .top__bar.two .top__bar-left span {
   font-size: 18px;
   margin-right: 27px;
-  text-transform: capitalize;
   color: var(--text-heading-color);
   color: var(--text-white);
 }
@@ -3131,7 +3127,6 @@ p {
 .top__bar.four .top__bar-left span {
   font-size: 18px;
   margin-right: 27px;
-  text-transform: capitalize;
   color: var(--text-heading-color);
   color: var(--text-white);
 }
@@ -3167,7 +3162,6 @@ p {
   }
   .top__bar-right a {
     font-size: 16px;
-    text-transform: capitalize;
   }
   .top__bar-right a i {
     font-size: 14px;
@@ -3261,7 +3255,6 @@ p {
   font-size: 18px;
   line-height: 24px;
   transition: all 0.4s ease-out 0s;
-  text-transform: capitalize;
   padding: 38px 10px;
   font-family: var(--heading-font);
 }
@@ -3307,7 +3300,6 @@ p {
   padding: 12px 20px;
   transition: all 0.4s ease-out 0s;
   font-size: 16px;
-  text-transform: capitalize;
   font-weight: 600;
   display: flex;
   justify-content: space-between;
@@ -9528,7 +9520,6 @@ p {
   right: 72px;
   top: 6px;
   color: var(--text-white);
-  text-transform: capitalize;
   padding: 18px 25px;
 }
 .subscribe__one-form .btn-two:hover {
@@ -9567,7 +9558,6 @@ p {
 .subscribe__one.two .subscribe-bottom .btn-two {
   background-color: var(--color-5);
   color: var(--text-white);
-  text-transform: capitalize;
   margin-right: 20px;
 }
 .subscribe__one.two .subscribe-bottom .btn-two:hover {
