@@ -26,7 +26,8 @@
 
 @font-face {
   font-display: swap;
-  src: url("../fonts/Oswald-ExtraLight.woff") format("woff"), url("../fonts/Oswald-ExtraLight.woff2") format("woff2");
+  src: url("https://raw.githack.com/JsgaPanda/Pandape/main/Yamaja/fonts/Oswald-ExtraLight.woff") format("woff"), 
+       url("https://raw.githack.com/JsgaPanda/Pandape/main/Yamaja/fonts/Oswald-ExtraLight.woff2") format("woff2");
   font-family: "Oswald";
   font-style: normal;
   font-weight: 200;
@@ -34,7 +35,8 @@
 
 @font-face {
   font-display: swap;
-  src: url("../fonts/Oswald-Light.woff") format("woff"), url("../fonts/Oswald-Light.woff2") format("woff2");
+  src: url("https://raw.githack.com/JsgaPanda/Pandape/main/Yamaja/fonts/Oswald-Light.woff") format("woff"), 
+       url("https://raw.githack.com/JsgaPanda/Pandape/main/Yamaja/fonts/Oswald-Light.woff2") format("woff2");
   font-family: "Oswald";
   font-style: normal;
   font-weight: 300;
@@ -42,7 +44,8 @@
 
 @font-face {
   font-display: swap;
-  src: url("../fonts/Oswald-Regular.woff") format("woff"), url("../fonts/Oswald-Regular.woff2") format("woff2");
+  src: url("https://raw.githack.com/JsgaPanda/Pandape/main/Yamaja/fonts/Oswald-Regular.woff") format("woff"), 
+       url("https://raw.githack.com/JsgaPanda/Pandape/main/Yamaja/fonts/Oswald-Regular.woff2") format("woff2");
   font-family: "Oswald";
   font-style: normal;
   font-weight: 400;
@@ -50,7 +53,8 @@
 
 @font-face {
   font-display: swap;
-  src: url("../fonts/Oswald-Medium.woff") format("woff"), url("../fonts/Oswald-Medium.woff2") format("woff2");
+  src: url("https://raw.githack.com/JsgaPanda/Pandape/main/Yamaja/fonts/Oswald-Medium.woff") format("woff"), 
+       url("https://raw.githack.com/JsgaPanda/Pandape/main/Yamaja/fonts/Oswald-Medium.woff2") format("woff2");
   font-family: "Oswald";
   font-style: normal;
   font-weight: 500;
@@ -58,7 +62,8 @@
 
 @font-face {
   font-display: swap;
-  src: url("../fonts/Oswald-SemiBold.woff") format("woff"), url("../fonts/Oswald-SemiBold.woff2") format("woff2");
+  src: url("https://raw.githack.com/JsgaPanda/Pandape/main/Yamaja/fonts/Oswald-SemiBold.woff") format("woff"), 
+       url("https://raw.githack.com/JsgaPanda/Pandape/main/Yamaja/fonts/Oswald-SemiBold.woff2") format("woff2");
   font-family: "Oswald";
   font-style: normal;
   font-weight: 600;
@@ -66,15 +71,18 @@
 
 @font-face {
   font-display: swap;
-  src: url("../fonts/Oswald-Bold.woff") format("woff"), url("../fonts/Oswald-Bold.woff2") format("woff2");
+  src: url("https://raw.githack.com/JsgaPanda/Pandape/main/Yamaja/fonts/Oswald-Bold.woff") format("woff"), 
+       url("https://raw.githack.com/JsgaPanda/Pandape/main/Yamaja/fonts/Oswald-Bold.woff2") format("woff2");
   font-family: "Oswald";
   font-style: normal;
   font-weight: 700;
 }
 
+/* Oxygen fonts */
 @font-face {
   font-display: swap;
-  src: url("../fonts/Oxygen-Light.woff") format("woff"), url("../fonts/Oxygen-Light.woff2") format("woff2");
+  src: url("https://raw.githack.com/JsgaPanda/Pandape/main/Yamaja/fonts/Oxygen-Light.woff") format("woff"), 
+       url("https://raw.githack.com/JsgaPanda/Pandape/main/Yamaja/fonts/Oxygen-Light.woff2") format("woff2");
   font-family: "Oxygen";
   font-style: normal;
   font-weight: 300;
@@ -82,7 +90,8 @@
 
 @font-face {
   font-display: swap;
-  src: url("../fonts/Oxygen-Regular.woff") format("woff"), url("../fonts/Oxygen-Regular.woff2") format("woff2");
+  src: url("https://raw.githack.com/JsgaPanda/Pandape/main/Yamaja/fonts/Oxygen-Regular.woff") format("woff"), 
+       url("https://raw.githack.com/JsgaPanda/Pandape/main/Yamaja/fonts/Oxygen-Regular.woff2") format("woff2");
   font-family: "Oxygen";
   font-style: normal;
   font-weight: 400;
@@ -90,7 +99,8 @@
 
 @font-face {
   font-display: swap;
-  src: url("../fonts/Oxygen-Bold.woff") format("woff"), url("../fonts/Oxygen-Bold.woff2") format("woff2");
+  src: url("https://raw.githack.com/JsgaPanda/Pandape/main/Yamaja/fonts/Oxygen-Bold.woff") format("woff"), 
+       url("https://raw.githack.com/JsgaPanda/Pandape/main/Yamaja/fonts/Oxygen-Bold.woff2") format("woff2");
   font-family: "Oxygen";
   font-style: normal;
   font-weight: 700;
