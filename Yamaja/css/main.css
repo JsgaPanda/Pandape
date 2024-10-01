@@ -1537,7 +1537,7 @@ blockquote span::before {
 }
 
 .section-subscribe {
-  background: url(../img/bg/subscribe.jpg) no-repeat fixed center/cover #0f0f0f;
+  background: url(https://raw.githack.com/JsgaPanda/Pandape/refs/heads/main/Yamaja/subscribe.jpg) no-repeat fixed center/cover #0f0f0f;
   -webkit-clip-path: polygon(17% 0px, 100% 28%, 100% 100%, 0px 100%, 0px 32%);
   display: block;
   position: relative;
