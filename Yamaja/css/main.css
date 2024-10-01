@@ -2897,7 +2897,7 @@ body.page-home .section-hero__content {
 }
 
 .video-box {
-  background: url(../img/bg/video.jpg) no-repeat fixed center/cover;
+  background: url(https://raw.githack.com/JsgaPanda/Pandape/refs/heads/main/Yamaja/video.jpg) no-repeat fixed center/cover;
   -webkit-clip-path: polygon(0 0, 100% 0, 100% 85%, 78% 100%, 0 87%);
   width: 100%;
   height: 730px;
