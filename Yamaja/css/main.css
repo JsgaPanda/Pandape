@@ -1219,7 +1219,7 @@ a:hover {
 
 blockquote {
   font: normal 400 26px/1.38 Oswald;
-  background: url(https://raw.githack.com/JsgaPanda/Pandape/refs/heads/main/Yamaja/quotes.svg) no-repeat left 20px top 20px;
+  background: url(https://raw.githack.com/JsgaPanda/Pandape/main/Yamaja/quotes.svg) no-repeat left 20px top 20px;
   padding-top: 40px;
   padding-bottom: 10px;
   padding-left: 50px;
@@ -2735,7 +2735,7 @@ body.page-home .section-hero__content {
 }
 
 .section-info.section-info--2 blockquote::before {
-  background: url(../img/icons/quotes.svg);
+  background: url(https://raw.githack.com/JsgaPanda/Pandape/main/Yamaja/quotes.svg);
   display: block;
   position: absolute;
   top: 0;
