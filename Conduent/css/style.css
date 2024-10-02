@@ -90,11 +90,11 @@
  }
 
  body {
-  font-family: 'Source Sans Pro', sans-serif;
-  font-weight: normal;
-  color:#555555;
-  font-size: 18px;
-  position: relative;
+  font-family: 'Source Sans Pro', sans-serif !important;
+  font-weight: normal !important;
+  color:#555555 !important;
+  font-size: 18px !important;
+  position: relative !important;
  }
  .main-page-wrapper {overflow-x:hidden;}
  h1,h2,h3,h4,h5,h6,p,ul { margin:0;padding: 0;}
