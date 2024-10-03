@@ -686,7 +686,7 @@ body .theme-button-one:hover {background:#FF8700; }
 /*------------------ Theme Counter -------------------*/
 .theme-counter {background: #f8faff;padding: 55px 0;}
 .theme-counter .bg {
-  background: url(../images/home/pattern.png) no-repeat center center;
+  background: url(https://raw.githack.com/JsgaPanda/Pandape/main/Conduent/pattern.png) no-repeat center center;
   text-align: center;
   padding: 85px 0 85px 0;
 }
