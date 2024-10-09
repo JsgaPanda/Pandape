@@ -2044,7 +2044,7 @@ button[class*=-dark]:hover {
 /* 4.01 - Page Hero Section - Start
 ================================================== */
 .hero_section {
-  padding: 200px 0 160px;
+  padding: 100px 0 160px;
 }
 .hero_section .heading_text {
   font-size: 54px;
