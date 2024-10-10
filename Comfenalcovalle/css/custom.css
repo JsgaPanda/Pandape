@@ -1336,7 +1336,7 @@ span {
 }
 
 .video-con::before {
-    background: url('../images/video-bg-img.jpg');
+    background: url('https://raw.githack.com/JsgaPanda/Pandape/main/Comfenalcovalle/video-bg-img.jpg');
     content: "";
     width: 100%;
     height: 100%;
