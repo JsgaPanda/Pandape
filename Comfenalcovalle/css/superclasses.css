@@ -62,10 +62,10 @@
 
 
 h1 {
-    font-size: 61px;
-    font-weight: 600;
-    line-height: 70px;
-    color: #006600;
+    font-size: 61px !important;
+    font-weight: 600 !important;
+    line-height: 70px !important;
+    color: #006600 !important;
     margin-bottom: 22px;
 }
 
