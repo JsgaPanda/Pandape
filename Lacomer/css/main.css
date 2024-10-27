@@ -1484,7 +1484,7 @@ hr:not([size]) {
 }
 @media only screen and (min-width: 576px) and (max-width: 768px), (max-width: 575px) {
   .section-space-top {
-    padding-top: 70px;
+    padding-top: 10px;
   }
 }
 
