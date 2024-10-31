@@ -395,7 +395,7 @@ p{
 /* Home Page About Us Section Style */
 
 .aboutus_section{
-    background-image: url('../images/aboutus_background.jpg');
+    background-image: url('https://raw.githack.com/JsgaPanda/Pandape/main/SmartFit/aboutus_background.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
