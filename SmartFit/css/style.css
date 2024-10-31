@@ -308,7 +308,7 @@ p{
 }
 .choose_us_content h2{
     margin-bottom: 28px;
-    color: var(--e-global-color-primary);
+    color: var(--e-global-color-primary) !important;
 }
 .choose_us_box_content {
     box-shadow: 1px 1px 50px rgb(0 0 0 / 5%);
