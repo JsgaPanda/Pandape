@@ -191,8 +191,10 @@ h6 {
     background-color: var(--light-lavender-bg);
 }
 
-.margin-tp-ngtv {
+@media (min-width: 1024px) {
+  .margin-tp-ngtv {
     margin-top: 105px !important;
+  }
 }
 
 .font-size50 {
