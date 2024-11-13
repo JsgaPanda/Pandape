@@ -151,13 +151,13 @@ img:not([draggable]),
 embed,
 object,
 video {
-  height: auto;
+
   max-width: 100%;
 }
 
 img {
   border: none;
-  height: auto;
+
   max-width: 100%;
   -webkit-user-select: none;
      -moz-user-select: none;
