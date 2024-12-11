@@ -2506,7 +2506,6 @@
 .about-two_image{
 	position:relative;
 	display:inline-block;
-	margin-top:var(--margin-top-90);
 }
 
 .about-two_image img{
