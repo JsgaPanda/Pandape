@@ -1870,7 +1870,6 @@ img{
 	font-weight:700 !important;
 	line-height:54px;
 	font-size:var(--font-42);
-	text-transform:capitalize;
 	margin-top:var(--margin-top-30);
 }
 
