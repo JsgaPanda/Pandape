@@ -1867,7 +1867,7 @@ img{
 
 .sec-title_two-heading{
 	position:relative;
-	font-weight:700;
+	font-weight:700 !important;
 	line-height:54px;
 	font-size:var(--font-42);
 	text-transform:capitalize;
