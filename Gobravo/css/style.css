@@ -2236,7 +2236,6 @@
 	
 	font-weight:700 !important;
 	color:var(--white-color);
-	margin-top:var(--margin-top-30);
 	font-family:var(--font-family-Inter);
 	text-shadow: 3px 3px 10px rgba(0,0,0,0.10);
 }
