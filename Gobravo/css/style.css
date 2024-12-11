@@ -3471,7 +3471,7 @@
 	z-index:1;
 	text-align:center;
 	font-size:var(--font-30);
-	color:var(--white-color);
+	color:var(--white-color) !important;
 	margin-bottom:var(--margin-bottom-40);
 	font-family:var(--font-family-FiraSans);
 }
