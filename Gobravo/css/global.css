@@ -1777,7 +1777,6 @@ img{
 .sec-title_heading{
 	position:relative;
 	font-weight:700;
-	text-transform:capitalize;
 	margin-top:var(--margin-top-20);
 }
 
