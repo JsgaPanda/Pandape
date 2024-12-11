@@ -837,19 +837,19 @@ p{
 
 h1{
 	line-height:80px;
-	font-weight:700;
+	font-weight:700 !important;
 	font-size:var(--font-72);
 }
 
 h2{
 	line-height:55px;
-	font-weight:600;
+	font-weight:600 !important;
 	font-size:var(--font-45);
 }
 
 h3{
 	line-height:1.3em;
-	font-weight:600;
+	font-weight:600 !important;
 	font-size:var(--font-36);
 }
 
