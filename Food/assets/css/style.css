@@ -969,7 +969,7 @@ Tags: 	agency, Business Agency, Business Consultant, business optimization, comp
 .choose-us-area::before {
     position: absolute;
     content: "";
-    background: url(../images/resource/choose-shape.png);
+    background: url(https://raw.githubusercontent.com/JsgaPanda/Pandape/refs/heads/main/Food/choose-shape.png);
     width: 55%;
     height: 100%;
     z-index: -1;
@@ -981,7 +981,7 @@ Tags: 	agency, Business Agency, Business Consultant, business optimization, comp
 .choose-us-area::after {
     position: absolute;
     content: "";
-    background: url(../images/resource/choose-thumb.png);
+    background: url(https://raw.githubusercontent.com/JsgaPanda/Pandape/refs/heads/main/Food/choose-thumb.png);
     width: 47%;
     height: 100%;
     z-index: -1;
@@ -1371,7 +1371,7 @@ ul.project-menu {
 ===================================================*/
 
 .video-area {
-    background: url(../images/resource/video-bg.jpg);
+    background: url(https://raw.githubusercontent.com/JsgaPanda/Pandape/refs/heads/main/Food/video-bg.jpg);
     height: 520px;
     background-size: cover;
     background-position: center center;
@@ -1564,7 +1564,7 @@ ul.project-menu {
 ===================================================*/
 
 .footer-area {
-    background: url(../images/footer/footer-bg.png);
+    background: url(https://raw.githubusercontent.com/JsgaPanda/Pandape/refs/heads/main/Food/footer-bg.png);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 116px 0 0px;
@@ -2107,7 +2107,7 @@ span.fill {
 }
 
 .video-item {
-    background: url(../images/resource/video-bg.jpg);
+    background: url(https://raw.githubusercontent.com/JsgaPanda/Pandape/refs/heads/main/Food/video-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -2262,7 +2262,7 @@ span.fill {
 =================================================================*/
 
 .testi-area {
-    background: url(../images/testimonial/testi-bg.png);
+    background: url(https://raw.githubusercontent.com/JsgaPanda/Pandape/refs/heads/main/Food/testi-bg.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -2604,7 +2604,7 @@ span.fill {
 
 
 .breatcome-area {
-    background: url(../images/resource/bratcome-bg.jpg);
+    background: url(https://raw.githubusercontent.com/JsgaPanda/Pandape/refs/heads/main/Food/bratcome-bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -2772,7 +2772,7 @@ span.fill {
 /* widget contact box */
 
 .widget-contact-box {
-    background: url(../images/service/widget-s-thumb.jpg);
+    background: url(https://raw.githubusercontent.com/JsgaPanda/Pandape/refs/heads/main/Food/widget-s-thumb.jpg);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
