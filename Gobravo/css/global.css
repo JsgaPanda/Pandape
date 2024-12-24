@@ -1155,7 +1155,8 @@ img{
 	font-size: var(--font-16);
 	text-transform: capitalize;
 	font-family:var(--font-family-Rubik);
-	background-color: var(--color-thirtyone);
+	background-color: #7a68ee;
+        border-radius: 4px;
 }
 
 .btn-style-two:before{
