@@ -59,6 +59,12 @@
 * - 5.03 - Contact Page
 * - 5.04 - Error Page
 
+
+/* 1.1 - Template Fonts - End
+================================================== */
+/* 1.2 - Template Reset - Start
+================================================== */
+
 :root {
   --bs-body-font-weight: 400;
   --bs-body-font-size: 18px;
@@ -97,10 +103,7 @@
   --bs-focus-ring-color: rgba(38, 171, 163, 0.25);
 }
 
-/* 1.1 - Template Fonts - End
-================================================== */
-/* 1.2 - Template Reset - Start
-================================================== */
+
 body {
   margin: 0;
   padding: 0;
