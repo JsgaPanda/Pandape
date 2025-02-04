@@ -2092,12 +2092,12 @@ button[class*=-dark]:hover {
 .hero_image_wrap:before {
   top: 0;
   left: 0;
-  background-color: var(--bs-secondary-bg-subtle);
+  background-color: #4D4D4C;
 }
 .hero_image_wrap:after {
   right: 0;
   bottom: 0;
-  background-color: #C1E3DE;
+  background-color: #E20A17;
 }
 .hero_image_wrap img {
   border-radius: var(--bs-border-radius-xxl);
