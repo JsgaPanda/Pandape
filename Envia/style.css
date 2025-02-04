@@ -64,8 +64,11 @@
 ================================================== */
 /* 1.2 - Template Reset - Start
 ================================================== */
-
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@400;700&display=swap');
 :root {
+  --bs-body-font-family: "Asap", sans-serif !important;
+  --bs-font-body: "Asap", sans-serif !important;
+  --bs-font-heading: "Asap", sans-serif !important;
   --bs-body-font-weight: 400;
   --bs-body-font-size: 18px;
   --bs-body-line-height: 28px;
