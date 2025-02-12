@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@400;700&display=swap');
+
+body {
+  font-family: 'Asap', sans-serif !important;
+}
+
+#RawHtml__4 {
+  background: #fff !important;
+}
+#LastOffersHorizontal_Left_2 h2{
+  text-align: center;
+  color: #fff !important;
+  font-size: 45px;
+  line-height: 54px;
+  font-weight: 800;
+  font-family: 'Asap', sans-serif !important;
+}
+
+
+  .field_group {
+    background: #e20a17;
+    padding: 45px;
+    border-radius: 10px;
+    margin-top: -180px !important;
+    z-index: 1;
+    position: relative;
+    -webkit-box-shadow: 0 10px 30px rgba(0, 0, 0, 0.07);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.07);
+    width: 100% !important;
+  }
+  
+#OfferSearcher_Secondary {
+    background: #fff !important;
+}
+
+.intro:before {
+      background-color: rgba(255, 255, 255, 0) !important;
+    height: 120px !important;
+    }
+
+.intro {
+    height: 120px !important;
+}
+
+
+#RawHtml__0 a{
+    color: #fff !important;
+}
+
+#LastOffersHorizontal_Left_2 a{
+    color: #e20a17 !important;
+}
