@@ -74,17 +74,17 @@
   --bs-body-line-height: 28px;
   --bs-body-font-size-md: 20px;
   --bs-body-line-height-md: 30px;
-  --bs-body-color: #51565D;
+  --bs-body-color: #4d4d4c;
   --bs-body-color-rgb: 81,86,93;
   --bs-transition: all 0.4s cubic-bezier(0.25, 1, 0.5, 1);
-  --bs-primary: #E20A17;
-  --bs-secondary: #e03e52;
-  --bs-dark: #535559;
+  --bs-primary: #ba0020;
+  --bs-secondary: #ba0020;
+  --bs-dark: #4d4d4c;
   --bs-primary-rgb: 38,171,163;
   --bs-secondary-rgb: 247,171,30;
   --bs-dark-rgb: 41,48,57;
   --bs-primary-bg-subtle: #F4FCFA;
-  --bs-secondary-bg-subtle: #E20A17;
+  --bs-secondary-bg-subtle: #ba0020;
   --bs-link-color: var(--bs-primary);
   --bs-link-color-rgb: var(--bs-primary-rgb);
   --bs-link-hover-color: #00CFC3;
@@ -1030,9 +1030,9 @@ button[class*=-dark]:hover {
   margin-bottom: 40px;
 }
 .section_heading .section_heading_text {
-  font-size: 42px;
+  font-size: 40px;
   font-weight: 800;
-  line-height: 50px;
+  line-height: 46px;
   margin-bottom: 15px;
 }
 .section_heading .section_heading_description {
@@ -1264,14 +1264,26 @@ button[class*=-dark]:hover {
   position: relative;
   padding: 92px 45px 45px;
 }
-.images_group_widget:before, .images_group_widget:after {
+.images_group_widget:after {
   width: 66%;
   height: 66%;
   content: "";
   z-index: -1;
   position: absolute;
-  background-color: var(--bs-secondary-bg-subtle);
+  background-color: #E20A17;
+  border-radius: 20px;
 }
+
+.images_group_widget:before {
+  width: 66%;
+  height: 66%;
+  content: "";
+  z-index: -1;
+  position: absolute;
+  background-color: #4D4D4C;
+  border-radius: 20px;
+}
+
 .images_group_widget:before {
   top: 0;
   right: 0;
@@ -1630,7 +1642,7 @@ button[class*=-dark]:hover {
   margin: -40px;
 }
 .hero_section_counter > li {
-  padding: 40px;
+  padding: 20px;
 }
 .hero_section_counter .counter_value {
   font-size: 42px;
@@ -2044,19 +2056,19 @@ button[class*=-dark]:hover {
   padding: 100px 0 160px;
 }
 .hero_section .heading_text {
-  font-size: 54px;
+  font-size: 45px;
   font-weight: 800;
-  line-height: 60px;
+  line-height: 46px;
   margin-bottom: 20px;
 }
 .hero_section p {
   max-width: 520px;
   margin-bottom: 42px;
-  font-size: var(--bs-body-font-size-md);
-  line-height: var(--bs-body-line-height-md);
+  font-size: 16px;
+  line-height: 22px;
 }
 .hero_section .hero_section_counter {
-  margin-top: 86px;
+  margin-top: 20px;
 }
 .hero_section .shape_blur_shadow {
   top: 30px;
@@ -2090,14 +2102,16 @@ button[class*=-dark]:hover {
   top: 0;
   left: 0;
   background-color: #4D4D4C;
+  border-radius: 20px;
 }
 .hero_image_wrap:after {
   right: 0;
   bottom: 0;
-  background-color: #E20A17;
+  background-color: #ba0020;
+  border-radius: 20px;
 }
 .hero_image_wrap img {
-  border-radius: var(--bs-border-radius-xxl);
+  border-radius: 20px !important;
 }
 
 /* 4.01 - Page Hero Section - End
