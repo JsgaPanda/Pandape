@@ -1270,7 +1270,7 @@ button[class*=-dark]:hover {
   content: "";
   z-index: -1;
   position: absolute;
-  background-color: #E20A17;
+  background-color: #BA0020;
   border-radius: 20px;
 }
 
