@@ -258,9 +258,9 @@ h2 {
 }
 
 h3 {
-  font-size: 24px;
-  font-weight: 600;
-  line-height: 121%;
+  font-size: 24px !important;
+  font-weight: 600 !important;
+  line-height: 121% !important;
 }
 @media (max-width: 575px) {
   h3 {
@@ -269,8 +269,8 @@ h3 {
 }
 
 h4 {
-  font-size: 22px;
-  font-weight: 700;
+  font-size: 22px !important;
+  font-weight: 700 !important;
 }
 @media (max-width: 575px) {
   h4 {
@@ -279,27 +279,27 @@ h4 {
 }
 
 h5 {
-  font-size: 20px;
-  font-weight: 600;
+  font-size: 20px !important;
+  font-weight: 600 !important;
 }
 
 h6 {
-  font-size: 18px;
-  font-weight: 600;
-  line-height: 156%;
+  font-size: 18px !important;
+  font-weight: 600 !important;
+  line-height: 156% !important;
 }
 
 a {
   text-decoration: none;
   outline: none !important;
   cursor: pointer;
-  color: var(--header);
+  color: var(--header) !important;
   transition: all 0.4s ease-in-out;
 }
 
 p {
-  margin: 0px;
-  transition: all 0.4s ease-in-out;
+  margin: 0px !important;
+  transition: all 0.4s ease-in-out !important;
 }
 
 .preloader {
