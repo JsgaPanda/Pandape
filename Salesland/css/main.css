@@ -4422,8 +4422,8 @@ input.main-search-input::placeholder {
   }
 }
 .about-wrapper.style-2 .about-image-items .about-image .experience-text-area h2 {
-  font-size: 65px;
-  color: var(--white);
+  font-size: 65px !important;
+  color: var(--white) !important;
 }
 @media (max-width: 575px) {
   .about-wrapper.style-2 .about-image-items .about-image .experience-text-area h2 {
