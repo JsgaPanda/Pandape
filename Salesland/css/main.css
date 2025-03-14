@@ -4616,8 +4616,8 @@ input.main-search-input::placeholder {
   text-align: center;
 }
 .about-wrapper-2 .about-image-items .circle-shape .about-title h2 {
-  font-size: 57px;
-  color: var(--white);
+  font-size: 57px !important;
+  color: var(--white) !important;
 }
 @media (max-width: 991px) {
   .about-wrapper-2 .about-image-items .circle-shape .about-title h2 {
@@ -4713,7 +4713,7 @@ input.main-search-input::placeholder {
 }
 .about-wrapper-2 .about-content .about-tabs-area .about-list-items .video-image .video-box .video-btn {
   background-color: var(--theme2);
-  color: var(--white);
+  color: var(--white) !important;
   display: inline-block;
   font-size: 16px;
   height: 50px;
@@ -7609,7 +7609,7 @@ input.main-search-input::placeholder {
 }
 
 .cta-banner-2 {
-  background-color: var(--theme);
+  background-color: #014b63;
   max-width: 800px;
   margin: 60px auto;
   border-radius: 10px;
