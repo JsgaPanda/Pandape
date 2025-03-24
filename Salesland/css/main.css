@@ -2328,7 +2328,7 @@ input.main-search-input::placeholder {
   bottom: -10px;
   left: 10px;
   content: "";
-  background-image: url(../../assets/img/hero/bar.png);
+  background-image: url(https://raw.githack.com/JsgaPanda/Pandape/main/Salesland/bar.png);
   width: 241px;
   height: 8px;
   background-repeat: no-repeat;
@@ -5184,7 +5184,7 @@ input.main-search-input::placeholder {
   content: "";
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url(../../assets/img/service/line-shape.png);
+  background-image: url(https://raw.githack.com/JsgaPanda/Pandape/main/Salesland/line-shape.png);
   z-index: -1;
   visibility: hidden;
   opacity: 0;
