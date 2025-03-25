@@ -6992,7 +6992,7 @@ input.main-search-input::placeholder {
   color: var(--theme);
 }
 .single-team-items.style-2 .team-content h5 a {
-  color: var(--white);
+  color: var(--white) !important;
 }
 .single-team-items.style-2 .team-content h5 a:hover {
   color: var(--theme);
