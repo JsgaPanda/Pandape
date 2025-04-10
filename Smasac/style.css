@@ -6864,7 +6864,7 @@ input[type=radio] {
   bottom: 0;
   -webkit-animation: spinner 10s infinite;
           animation: spinner 10s infinite;
-  background: url(https://raw.githack.com/JsgaPanda/Pandape/main/Smasac/font/text-badge.png) no-repeat;
+  background: url(https://raw.githack.com/JsgaPanda/Pandape/main/Smasac/text-badge.png) no-repeat;
 }
 .about-badge .about-icon {
   display: flex;
