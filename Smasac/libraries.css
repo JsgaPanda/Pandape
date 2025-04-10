@@ -24,8 +24,8 @@
 /* Template custom icon Font*/
 @font-face {
     font-family: icomoon;
-    src: url(../fonts/icomoon.eot);
-    src: url(../fonts/icomoon.eot) format("embedded-opentype"), url(../fonts/icomoon.ttf) format("truetype"), url(../fonts/icomoon.woff) format("woff"), url(../fonts/icomoon.svg) format("svg");
+    src: url(https://raw.githack.com/JsgaPanda/Pandape/main/Smasac/font/icomoon.eot);
+    src: url(https://raw.githack.com/JsgaPanda/Pandape/main/Smasac/font/icomoon.eot) format("embedded-opentype"), url(https://raw.githack.com/JsgaPanda/Pandape/main/Smasac/font/icomoon.ttf) format("truetype"), url(https://raw.githack.com/JsgaPanda/Pandape/main/Smasac/font/icomoon.woff) format("woff"), url(https://raw.githack.com/JsgaPanda/Pandape/main/Smasac/font/icomoon.svg) format("svg");
     font-weight: 400;
     font-style: normal;
     font-display: block
