@@ -4692,7 +4692,7 @@ input[type=radio] {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
   transition: all 0.3s linear;
 }
 .feature-item:last-of-type {
@@ -4732,7 +4732,7 @@ input[type=radio] {
 }
 
 .features-list-layout2 .feature-item {
-  padding: 20px;
+  padding: 12px;
   border-radius: 0;
 }
 
