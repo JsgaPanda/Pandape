@@ -6920,7 +6920,7 @@ input[type=radio] {
   top: 0;
   bottom: 0;
   z-index: -1;
-  background-color: #ffffff;
+  background-color: #f9f5ef;
 }
 .about-layout2 .about-text-banner:before {
   left: 0;
