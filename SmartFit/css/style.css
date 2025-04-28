@@ -319,6 +319,13 @@ p{
     cursor: pointer;
     transition: all 0.3s ease-in-out;
 }
+
+#RawHtml__2 p{
+  font-weight: 300;
+  font-size: 16px !important;
+  line-height: 20px !important;
+}
+
 .choose_us_box_content:hover{
     border: 2px solid var(--e-global-color-accent);
 }
