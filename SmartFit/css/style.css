@@ -314,7 +314,7 @@ p{
     box-shadow: 1px 1px 50px rgb(0 0 0 / 5%);
     width: 100%;
     text-align: center;
-    padding: 55px 26px 42px;
+    padding: 55px 16px 42px;
     border: 2px solid var(--e-global-color-white);
     cursor: pointer;
     transition: all 0.3s ease-in-out;
