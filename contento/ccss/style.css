@@ -1065,23 +1065,7 @@ ul.social-icon i:hover{
 .pb {
     padding-bottom: 150px;
 }
-footer{
-    position: relative;
-    padding-top: 60px;
-    padding-bottom: 50px;
-}
-footer:before {
-    position: absolute;
-    content: "";
-    height: 412px;
-    width: 834px;
-    border-radius: 300px;
-    background: #E51F2F;
-    top: 28%;
-    left: 0;
-    border-top-left-radius: 0;
-    border-bottom-left-radius: 0;
-}
+
 /* 17. copyrights */
 .copyrights {
     padding-top: 90px;
