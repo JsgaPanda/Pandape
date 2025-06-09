@@ -684,14 +684,15 @@ img.quote-5 {
     position: relative;
 }
 .accordio-img:before {
-    content: "";
-    height: 230px;
-    width: 81px;
-    border-radius: 100px;
-    position: absolute;
-    background: #E51F2F;
-    left: 22%;
-    transform: rotate(40deg);
+content: "";
+  height: 230px;
+  width: 81px;
+  border-radius: 100px;
+  position: absolute;
+  background: #FCBE00;
+  left: 14%;
+  transform: rotate(40deg);
+  top: 22%;
 }
 /* 10. accordion */
 .accordion {
