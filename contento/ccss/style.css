@@ -647,26 +647,31 @@ i.quote {
     transform: translate(0, 0) rotate(0); } 
 }
 img.quote-1 {
+    border-radius: 50% !important;
     left: 23%;
     top: 18%;
     animation: 7s infinite animation01 ;
 }
 img.quote-2 {
+    border-radius: 50% !important;
     left: 12%;
     top: 33%;
     animation: 7s infinite animation02 ;
 }
 img.quote-3 {
+    border-radius: 50% !important;
     left: 18%;
     top: 60%;
     animation: 7s infinite top ;
 }
 img.quote-4 {
+    border-radius: 50% !important;
     right: 16%;
     top: 35%;
     animation: 7s infinite animation02 ;
 }
 img.quote-5 {
+    border-radius: 50% !important;
     right: 20%;
     top: 68%;
 }
