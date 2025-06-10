@@ -161,13 +161,6 @@ input:focus {
   box-shadow: none;
 }
 
-img:not([draggable]),
-embed,
-object,
-video {
-  max-width: 100%;
-  height: auto;
-}
 
 ul {
   list-style-type: disc;
