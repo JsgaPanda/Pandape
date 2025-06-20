@@ -951,15 +951,7 @@ form.subscribe button.btn {
     top: 27.5px;
     height: 60px;
 }
-input[type="text"] {
-    border-radius: 50px;
-    width: 100%;
-    height: 50px;
-    padding-left: 30px;
-    border: 0;
-    outline: none;
-    font-size: 16px;
-}
+
 form.subscribe  input[type="text"] {
     height: 60px;
     width: 100%;
