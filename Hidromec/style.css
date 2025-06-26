@@ -1653,7 +1653,7 @@ p {
     .solution-area .solution-item .solution-list-content p {
       font-weight: 300;
       color: #7e8591;
-      line-height: 34px;
+      line-height: 30px;
       letter-spacing: 0.4px;
       padding-right: 55px;
       padding-bottom: 26px;
@@ -1663,7 +1663,7 @@ p {
           padding-right: 0; } }
     .solution-area .solution-item .solution-list-content ul li {
       font-weight: 300;
-      line-height: 44px;
+      line-height: 33px;
       color: #7e8591; }
       .solution-area .solution-item .solution-list-content ul li i {
         padding-right: 14px;
