@@ -1789,7 +1789,9 @@ p {
       -webkit-animation: pulse-border-2 1.5s linear infinite;
       -moz-animation: pulse-border-2 1.5s linear infinite;
       -o-animation: pulse-border-2 1.5s linear infinite;
-      animation: pulse-border-2 1.5s linear infinite; }
+      animation: pulse-border-2 1.5s linear infinite; 
+    border-radius: 50%;}
+
     .video-area .video-item a::after {
       position: absolute;
       content: '';
@@ -1803,7 +1805,8 @@ p {
       -webkit-animation: pulse-border 1s linear infinite;
       -moz-animation: pulse-border 1s linear infinite;
       -o-animation: pulse-border 1s linear infinite;
-      animation: pulse-border 1s linear infinite; }
+      animation: pulse-border 1s linear infinite; 
+    border-radius: 50%;}
   .video-area .video-item .title {
     color: #fff;
     font-size: 60px;
