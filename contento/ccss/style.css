@@ -484,18 +484,16 @@ figure {
 }
 
 .count-text {
-    position: relative;
-    display: flex;
-    width: 220px;
-    height: 220px;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    border-radius: 50%;
-    background: #4CAB37;
-    padding-top: 36px;
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-radius: 10%;
+  background: #4CAB37;
 }
+
 .count-text p {
     transform: translateY(-30px);
     line-height: 24px;
