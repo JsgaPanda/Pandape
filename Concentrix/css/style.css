@@ -1828,19 +1828,7 @@ p.footer_desc {
     background: transparent;
     box-shadow: none;
 }
-button.btn {
-    width: 119px;
-    height: 36px;
-    border-radius: 18px;
-    background-color: #25E2CC;
-    font-size: 14px;
-    text-transform: uppercase;
-    color: #ffffff;
-    font-weight: 500;
-    position: absolute;
-    top: 0;
-    right: 0;
-}
+
 button.btn:hover {
     background: #fff;
     color: #063232;
