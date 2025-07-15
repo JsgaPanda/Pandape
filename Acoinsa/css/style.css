@@ -3176,7 +3176,7 @@ body,
 	margin: 0;
 }
 
-.services-area .services-items .item .icon {
+.services-area .services-items .item .icons {
 	display: inline-block;
 	height: 90px;
 	width: 90px;
@@ -3189,7 +3189,7 @@ body,
 	z-index: 1;
 }
 
-.services-area .services-items .item .icon::after {
+.services-area .services-items .item .icons::after {
 	position: absolute;
 	left: 50%;
 	top: 0;
@@ -3203,7 +3203,7 @@ body,
 	transition: all 0.35s ease-in-out;
 }
 
-.services-area .services-items .item:hover .icon::after {
+.services-area .services-items .item:hover .icons::after {
 	left: 0;
 	width: 100%;
 	border-radius: 50%;
